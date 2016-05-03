@@ -1,0 +1,22 @@
+* {
+    line-height: 1.5em;
+    font-size: 1em;
+}
+
+.section {
+    margin-bottom: 60px;
+}
+
+strong {
+    border: solid #393;
+    border-width: 1px;
+    margin: 2px;
+    padding: 0 4px;
+    border-radius: 4px;
+    text-indent: 0;
+    line-height: 2em;
+}
+
+.sphinxsidebarwrapper ul li {
+}
+
